@@ -23,26 +23,26 @@ class WordManager {
     // 백업 단어 데이터
     getBackupWords() {
         return [
-            { id: '1', word: 'abundant', meaning: '풍부한, 많은', difficulty: 'easy' },
-            { id: '2', word: 'benevolent', meaning: '자애로운, 인자한', difficulty: 'medium' },
-            { id: '3', word: 'curiosity', meaning: '호기심', difficulty: 'easy' },
-            { id: '4', word: 'diligent', meaning: '근면한, 부지런한', difficulty: 'medium' },
-            { id: '5', word: 'eloquent', meaning: '유창한, 설득력 있는', difficulty: 'hard' },
-            { id: '6', word: 'fragile', meaning: '깨지기 쉬운, 연약한', difficulty: 'easy' },
-            { id: '7', word: 'gracious', meaning: '우아한, 친절한', difficulty: 'medium' },
-            { id: '8', word: 'harmony', meaning: '조화, 화합', difficulty: 'easy' },
-            { id: '9', word: 'innovative', meaning: '혁신적인', difficulty: 'hard' },
-            { id: '10', word: 'jubilant', meaning: '활기차게 기뻐하는', difficulty: 'hard' },
-            { id: '11', word: 'knowledge', meaning: '지식', difficulty: 'easy' },
-            { id: '12', word: 'luminous', meaning: '빛나는, 밝은', difficulty: 'medium' },
-            { id: '13', word: 'magnificent', meaning: '웅장한, 훌륭한', difficulty: 'hard' },
-            { id: '14', word: 'nurture', meaning: '양육하다, 기르다', difficulty: 'medium' },
-            { id: '15', word: 'optimistic', meaning: '낙관적인', difficulty: 'easy' },
-            { id: '16', word: 'persistent', meaning: '끈기 있는, 고집스러운', difficulty: 'medium' },
-            { id: '17', word: 'quest', meaning: '탐구, 탐색', difficulty: 'hard' },
-            { id: '18', word: 'resilient', meaning: '회복력 있는', difficulty: 'hard' },
-            { id: '19', word: 'serene', meaning: '고요한, 평온한', difficulty: 'medium' },
-            { id: '20', word: 'thrive', meaning: '번창하다, 잘 자라다', difficulty: 'medium' }
+            { id: '1', word: 'happy', meaning: '행복한, 기쁜', difficulty: 'easy' },
+            { id: '2', word: 'friend', meaning: '친구', difficulty: 'easy' },
+            { id: '3', word: 'family', meaning: '가족', difficulty: 'easy' },
+            { id: '4', word: 'school', meaning: '학교', difficulty: 'easy' },
+            { id: '5', word: 'water', meaning: '물', difficulty: 'easy' },
+            { id: '6', word: 'beautiful', meaning: '아름다운', difficulty: 'easy' },
+            { id: '7', word: 'important', meaning: '중요한', difficulty: 'easy' },
+            { id: '8', word: 'together', meaning: '함께, 같이', difficulty: 'easy' },
+            { id: '9', word: 'always', meaning: '항상, 언제나', difficulty: 'easy' },
+            { id: '10', word: 'answer', meaning: '대답, 답', difficulty: 'easy' },
+            { id: '11', word: 'careful', meaning: '조심스러운, 주의 깊은', difficulty: 'easy' },
+            { id: '12', word: 'clean', meaning: '깨끗한', difficulty: 'easy' },
+            { id: '13', word: 'enjoy', meaning: '즐기다', difficulty: 'easy' },
+            { id: '14', word: 'forget', meaning: '잊다', difficulty: 'easy' },
+            { id: '15', word: 'healthy', meaning: '건강한', difficulty: 'easy' },
+            { id: '16', word: 'hungry', meaning: '배고픈', difficulty: 'easy' },
+            { id: '17', word: 'learn', meaning: '배우다, 학습하다', difficulty: 'easy' },
+            { id: '18', word: 'nature', meaning: '자연', difficulty: 'easy' },
+            { id: '19', word: 'popular', meaning: '인기 있는', difficulty: 'easy' },
+            { id: '20', word: 'travel', meaning: '여행하다, 여행', difficulty: 'easy' }
         ];
     }
 
